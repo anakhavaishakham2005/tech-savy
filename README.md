@@ -37,11 +37,6 @@ For Software:
 
 ### Implementation
 For Software:
-# Installation
-[---]
-
-# Run
-[---]
 
 ### Project Documentation
 For Software:
