@@ -58,8 +58,6 @@ For Software:
 https://drive.google.com/file/d/1Z2BsrQZesYBGdtRucR3rnAyon7ud3yrg/view?usp=sharing
 *Takes you through the website*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - Diya Nazeer:Created the Loader page, and its css, enabled scroll for the lost item form, Functionalities to display a post
